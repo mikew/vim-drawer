@@ -1,3 +1,6 @@
+> [!WARNING]
+> This project has been archived in favor of [nvim-drawer](https://github.com/mikew/nvim-drawer).
+
 # vim-drawer
 
 vim splits that stay open and remember their size between tabs. What you end up
